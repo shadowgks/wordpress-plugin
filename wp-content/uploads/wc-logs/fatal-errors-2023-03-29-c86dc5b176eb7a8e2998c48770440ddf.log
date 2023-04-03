@@ -1,0 +1,2 @@
+2023-03-29T14:45:48+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\woocomerce\wp-admin\includes\class-wp-filesystem-base.php' (include_path='.;C:\php\pear') in C:\wamp64\www\woocomerce\wp-admin\includes\file.php on line 1974
+

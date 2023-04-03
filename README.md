@@ -1,1 +1,1 @@
-# wordpress-plugin
+# woocommerce-ajitchri
